@@ -183,17 +183,25 @@ __ 这也是一个加粗文本 __
 ___ 这也是一个斜体加粗文本 ___
 
 ### **日常记录**
+
 **学习ing**
 
-![笔记3](7bbdb6ed2038fc54ab2c915cc240368.jpg)
+![笔记1](images/baafbcae4172a246d12108f7caebc9b.jpg)
 
+![笔记2](images/34ba6e38d0ffad923fd1711bdbb639d.jpg)
+
+![笔记2](images/一.jpg)
+
+![笔记2](images/二.jpg)
+
+
+**一些学习之余的生活片段记录～**
 
 ![笔记1](images/我们是：AI第③极！！！.jpg)
 ![笔记2](images/清晨赶往会议室的路上.jpg)
 ![笔记3](images/我们的小组正式成立.jpg)
-
-
-
+![笔记2](images/清晨赶往会议室的路上.jpg)
+![笔记3](7bbdb6ed2038fc54ab2c915cc240368.jpg)
 
 
 ## **研究结果**
