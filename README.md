@@ -111,6 +111,11 @@ print(tensor)#输出：tensor([1,2,3])
 
 ### **研究日常**
 
+![笔记1](images/我们是：AI第③极！！！.jpg)
+![笔记2](images/清晨赶往会议室的路上.jpg)
+![笔记3](images/我们的小组正式成立.jpg)
+
+
 
 
 
@@ -133,10 +138,6 @@ print(tensor)#输出：tensor([1,2,3])
 
 
 
-
-![笔记1](images/我们是：AI第③极！！！.jpg)
-![笔记2](images/清晨赶往会议室的路上.jpg)
-![笔记3](images/我们的小组正式成立.jpg)
 
 ##这是我的模型
 
