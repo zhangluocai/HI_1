@@ -64,11 +64,11 @@
 
 ### **笔记**
 
-![笔记3](images/6ba24c4353200133e61593c193e88ea.jpg)
+![笔记3](images/笔记1.jpg)
 
-![笔记3](images/015d1686ea0c7d7139841e3f2f6982a.jpg)
+![笔记3](images/笔记2.jpg)
 
-![笔记3](images/5fd41d7d544c61b80c48c2abfbd6c7f.jpg)  
+![笔记3](images/笔记3.jpg)  
 
 ***四、Python语法***
 
@@ -184,23 +184,26 @@ ___ 这也是一个斜体加粗文本 ___
 
 ### **日常记录**
 
-**学习ing**
+***学习ing***
+<>
+![笔记3](images/我们的小组正式成立.jpg)
 
-![笔记1](images/baafbcae4172a246d12108f7caebc9b.jpg)
+![笔记1](images/学习1.jpg)
 
-![笔记2](images/34ba6e38d0ffad923fd1711bdbb639d.jpg)
+![笔记2](images/学习2.jpg)
 
 ![笔记2](images/一.jpg)
 
 ![笔记2](images/二.jpg)
 
-
-**一些学习之余的生活片段记录～**
-
 ![笔记1](images/我们是：AI第③极！！！.jpg)
+***一些学习之余的生活片段记录～***
+**清晨赶往会议室的路上**
 ![笔记2](images/清晨赶往会议室的路上.jpg)
-![笔记3](images/我们的小组正式成立.jpg)
-![笔记2](images/清晨赶往会议室的路上.jpg)
+**结束一天的课程走向会议室**
+![笔记2](images/结束一天的课程走向会议室.jpg)
+**夏夜操场上的游戏**
+![笔记2](images/夏夜操场上的游戏.jpg)
 ![笔记3](7bbdb6ed2038fc54ab2c915cc240368.jpg)
 
 
