@@ -115,25 +115,25 @@ Python提供了多种内置数据类型，此外还有一些通过第三方库�
 
 •数组(array) 由numpy库提供，用于处理数值型数据的多维数组。 
 
-Import  numpy  as  np 
+      Import  numpy  as  np 
 
-arr = np.array([1,2,3])
+      arr = np.array([1,2,3])
 
-print(arr)#输出：[123]
+      print(arr)#输出：[123]
 
 •张量(tensor) 由torch库提供，用于深度学习中的多维数组。
 
-Import	torch 
+      Import	torch 
 
-tensor=torch.tensor([1,2,3])
+      tensor=torch.tensor([1,2,3])
 
-print(tensor)#输出：tensor([1,2,3])
+      print(tensor)#输出：tensor([1,2,3])
 
 **2**  类的定义
 
 类是面向对象编程的核心概念。它们允许我们创建自定义数据类型，包含属性（变量）和方法（函数）。 
 
-![笔记1](images/乘法表.jpg)
+![笔记1](乘法表.jpg)
 
 **3**  函数的定义
 
