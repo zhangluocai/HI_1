@@ -66,6 +66,10 @@
 
 ![笔记3](images/笔记1.jpg)
 
+<img src="images/笔记1.jpg" width=100 heigth=1000 >
+
+<img src="images/笔记1.jpg" style=zoom:50% >
+
 ![笔记3](images/笔记2.jpg)
 
 ![笔记3](images/笔记3.jpg)  
@@ -200,7 +204,7 @@ ___ 这也是一个斜体加粗文本 ___
 
 ![笔记2](images/二.jpg)
 
-<img scr="iamges/二.jpg" width=100 height=100>
+
 
 ***一些学习之余的生活片段记录～***
 **清晨赶往会议室的路上**
