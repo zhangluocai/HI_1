@@ -66,10 +66,6 @@
 
 ![笔记3](images/笔记1.jpg)
 
-<img src="images/笔记1.jpg" width=100 heigth=1000 >
-
-<img src="images/笔记1.jpg" style=zoom:50% >
-
 ![笔记3](images/笔记2.jpg)
 
 ![笔记3](images/笔记3.jpg)  
